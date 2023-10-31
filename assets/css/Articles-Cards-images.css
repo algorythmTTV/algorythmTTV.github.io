@@ -1,0 +1,10 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+

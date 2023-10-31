@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Prachason Neue Expanded ExBold';
+	src: url(../../assets/fonts/PrachasonNeue-ExpandedExtraBold.woff2) format('woff2'),
+	url(../../assets/fonts/PrachasonNeue-ExpandedExtraBold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Prachason Neue Expanded ExBold';
+	src: url(../../assets/fonts/PrachasonNeue-ExpandedExtraBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/PrachasonNeue-ExpandedExtraBoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
